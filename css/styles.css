@@ -1,0 +1,14 @@
+h1 {
+  color: #C0C0C0;
+}
+
+.intro {
+  font-stretch: extra-condensed;
+  font-family: fantasy;
+  flex: auto;
+}
+
+.badA {
+  text-shadow: 20px;
+  font-style: oblique;
+}
