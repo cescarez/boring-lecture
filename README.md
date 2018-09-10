@@ -26,11 +26,11 @@ _Contact christabel.escarez@gmail.com with any technical issues._
 
 ## Technologies Used
 
-_Mouse_
-_Computer_
-_Person browsing Webpage_
-_I also hope you have a pet_
-  _If you like pets._
+* _HTML_
+* _CSS_
+  * _Bootstrap
+* _Javascript_
+  * _jQuery_
 
 ### License
 

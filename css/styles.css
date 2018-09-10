@@ -12,3 +12,9 @@ h1 {
   text-shadow: 20px;
   font-style: oblique;
 }
+
+.highlight {
+  background-color: yellow;
+  border: 4px;
+  border-style:dashed;
+}
